@@ -1,0 +1,21 @@
+{
+  "name": "introduccion-node-ts",
+  "version": "1.0.0",
+  "description": "Introduccion a Node Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infrony/introduccion-node-ts.git"
+  },
+  "keywords": [],
+  "author": "Rodney Guillen <infrony@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infrony/introduccion-node-ts/issues"
+  },
+  "homepage": "https://github.com/infrony/introduccion-node-ts#readme"
+}
